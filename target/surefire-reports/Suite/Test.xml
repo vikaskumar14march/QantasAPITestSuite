@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="vicky-THINK" name="TestFramework.AccessHQAPITest" tests="1" failures="0" timestamp="18 Jan 2019 06:05:29 GMT" time="17.666" errors="0">
-  <testcase name="getStationAPITest" time="17.646" classname="TestFramework.AccessHQAPITest"/>
-</testsuite>
