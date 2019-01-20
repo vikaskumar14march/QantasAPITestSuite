@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vicky-THINK" name="TestFramework.WeatherBitAPITest" tests="2" failures="0" timestamp="20 Jan 2019 12:58:24 GMT" time="14.929" errors="0">
+  <testcase name="getCurrentDataTest" time="9.522" classname="TestFramework.WeatherBitAPITest"/>
+  <testcase name="getHourlyForcastTest" time="5.369" classname="TestFramework.WeatherBitAPITest"/>
+</testsuite>
