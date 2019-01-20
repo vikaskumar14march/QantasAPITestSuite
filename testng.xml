@@ -8,6 +8,7 @@
   <test name="Test">
     <classes>
       <class name="TestFramework.WeatherBitAPITest"/>
+      <class name="TestFramework.PerformaceTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
